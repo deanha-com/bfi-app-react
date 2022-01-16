@@ -1,4 +1,4 @@
-# BFI App ReactJS by Dean Ha
+# BFI App ReactJS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
